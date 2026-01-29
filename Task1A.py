@@ -14,7 +14,7 @@ def run():
     stations = build_station_list()
 
     # Print number of stations
-    print("Number of stations: {}".format(len(stations)))
+    print("Number of stations new edit: {}".format(len(stations)))
 
     # Display data from 3 stations:
     for station in stations:
